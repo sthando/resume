@@ -13,3 +13,8 @@ img{
 h2{
     text-align: center;
 }
+
+#head{
+    background-color: dimgray;
+    color: white;
+}
